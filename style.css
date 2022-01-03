@@ -1,0 +1,36 @@
+body{
+    font-family: 'Rock 3D', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.pink{
+    color: purple;
+}
+h3{
+    padding-left: 20%;
+    font-family: fantasy;
+    color:rgb(218, 127, 117)
+    
+    
+    
+}
+p{
+    padding-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:50%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
